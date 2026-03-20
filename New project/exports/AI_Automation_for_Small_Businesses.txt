@@ -1,0 +1,45 @@
+AI Automation for Small Businesses
+
+Outline
+Book positioning summary: A practical guide.
+
+1. Introduction to the topic - Defines the promise of the book.
+2. Core foundations - Explains the main concepts.
+3. Applied workflow - Shows how to use the concepts.
+4. Advanced patterns - Covers nuanced decisions.
+5. Final integration - Brings everything together.
+
+Chapter 1: Introduction to the topic
+## Section 1
+This is a starter chapter draft generated in fallback mode.
+
+## Key Takeaway
+The chapter establishes a clear bridge to the next part of the book.
+
+Chapter 2: Core foundations
+## Section 1
+This is a starter chapter draft generated in fallback mode.
+
+## Key Takeaway
+The chapter establishes a clear bridge to the next part of the book.
+
+Chapter 3: Applied workflow
+## Section 1
+This is a starter chapter draft generated in fallback mode.
+
+## Key Takeaway
+The chapter establishes a clear bridge to the next part of the book.
+
+Chapter 4: Advanced patterns
+## Section 1
+This is a starter chapter draft generated in fallback mode.
+
+## Key Takeaway
+The chapter establishes a clear bridge to the next part of the book.
+
+Chapter 5: Final integration
+## Section 1
+This is a starter chapter draft generated in fallback mode.
+
+## Key Takeaway
+The chapter establishes a clear bridge to the next part of the book.

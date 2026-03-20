@@ -1,0 +1,340 @@
+{
+  "books": [
+    {
+      "id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "title": "Automated Book Generation",
+      "notes_on_outline_before": "System",
+      "outline": "Book positioning summary: A practical guide.\n\n1. Introduction to the topic - Defines the promise of the book.\n2. Core foundations - Explains the main concepts.\n3. Applied workflow - Shows how to use the concepts.\n4. Advanced patterns - Covers nuanced decisions.\n5. Final integration - Brings everything together.",
+      "outline_structure": [
+        "Introduction to the topic",
+        "Core foundations",
+        "Applied workflow",
+        "Advanced patterns",
+        "Final integration"
+      ],
+      "notes_on_outline_after": "string",
+      "status_outline_notes": "yes",
+      "final_review_notes_status": "yes",
+      "final_review_notes": "string",
+      "book_output_status": "ready_for_compile",
+      "compiled_txt_path": null,
+      "compiled_docx_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "29812108-3eba-472f-8ee9-f0685cb74afb",
+      "title": "AI Automation for Small Businesses",
+      "notes_on_outline_before": "Create a practical beginner-friendly 5 chapter book.",
+      "outline": null,
+      "outline_structure": [],
+      "notes_on_outline_after": null,
+      "status_outline_notes": null,
+      "final_review_notes_status": null,
+      "final_review_notes": null,
+      "book_output_status": "draft",
+      "compiled_txt_path": null,
+      "compiled_docx_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "c950458c-e5f3-42c9-b040-4cfe3ee59991",
+      "title": "AI Automation for Small Businesses",
+      "notes_on_outline_before": "Create a practical beginner-friendly 5 chapter book.",
+      "outline": null,
+      "outline_structure": [],
+      "notes_on_outline_after": null,
+      "status_outline_notes": null,
+      "final_review_notes_status": null,
+      "final_review_notes": null,
+      "book_output_status": "draft",
+      "compiled_txt_path": null,
+      "compiled_docx_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "title": "AI Automation for Small Businesses",
+      "notes_on_outline_before": "Create a practical beginner-friendly five chapter book.",
+      "outline": "Book positioning summary: A practical guide.\n\n1. Introduction to the topic - Defines the promise of the book.\n2. Core foundations - Explains the main concepts.\n3. Applied workflow - Shows how to use the concepts.\n4. Advanced patterns - Covers nuanced decisions.\n5. Final integration - Brings everything together.",
+      "outline_structure": [
+        "Introduction to the topic",
+        "Core foundations",
+        "Applied workflow",
+        "Advanced patterns",
+        "Final integration"
+      ],
+      "notes_on_outline_after": null,
+      "status_outline_notes": "no_notes_needed",
+      "final_review_notes_status": null,
+      "final_review_notes": null,
+      "book_output_status": "chapter_waiting_notes",
+      "compiled_txt_path": null,
+      "compiled_docx_path": null,
+      "metadata": {}
+    },
+    {
+      "id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "title": "AI Automation for Small Businesses",
+      "notes_on_outline_before": "Create a practical beginner-friendly five chapter book.",
+      "outline": "Book positioning summary: A practical guide.\n\n1. Introduction to the topic - Defines the promise of the book.\n2. Core foundations - Explains the main concepts.\n3. Applied workflow - Shows how to use the concepts.\n4. Advanced patterns - Covers nuanced decisions.\n5. Final integration - Brings everything together.",
+      "outline_structure": [
+        "Introduction to the topic",
+        "Core foundations",
+        "Applied workflow",
+        "Advanced patterns",
+        "Final integration"
+      ],
+      "notes_on_outline_after": null,
+      "status_outline_notes": "no_notes_needed",
+      "final_review_notes_status": "no_notes_needed",
+      "final_review_notes": null,
+      "book_output_status": "compiled",
+      "compiled_txt_path": "C:\\Users\\Nexgen\\OneDrive\\Documents\\New project\\exports\\AI_Automation_for_Small_Businesses.txt",
+      "compiled_docx_path": "C:\\Users\\Nexgen\\OneDrive\\Documents\\New project\\exports\\AI_Automation_for_Small_Businesses.docx",
+      "metadata": {}
+    },
+    {
+      "id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "title": "AI Automation for Small",
+      "notes_on_outline_before": "Create a practical beginner-friendly fand implementation advice.",
+      "outline": "Book positioning summary: A practical guide.\n\n1. Introduction to the topic - Defines the promise of the book.\n2. Core foundations - Explains the main concepts.\n3. Applied workflow - Shows how to use the concepts.\n4. Advanced patterns - Covers nuanced decisions.\n5. Final integration - Brings everything together.",
+      "outline_structure": [
+        "Introduction to the topic",
+        "Core foundations",
+        "Applied workflow",
+        "Advanced patterns",
+        "Final integration"
+      ],
+      "notes_on_outline_after": "string",
+      "status_outline_notes": "yes",
+      "final_review_notes_status": "yes",
+      "final_review_notes": "string",
+      "book_output_status": "ready_for_compile",
+      "compiled_txt_path": null,
+      "compiled_docx_path": null,
+      "metadata": {}
+    }
+  ],
+  "chapters": [
+    {
+      "id": "de945072-963a-4aaa-982f-c4655d0d541e",
+      "book_id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "chapter_number": 1,
+      "chapter_title": "Introduction to the topic",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "yes",
+      "chapter_notes": "string",
+      "status": "waiting_review"
+    },
+    {
+      "id": "8d487230-8156-4e35-adb4-fabe1d770c9e",
+      "book_id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "chapter_number": 2,
+      "chapter_title": "Core foundations",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "1ef17051-a108-4072-aed8-269330c20287",
+      "book_id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "chapter_number": 3,
+      "chapter_title": "Applied workflow",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "ba65add1-83d4-43a7-9e95-41bba8d38830",
+      "book_id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "chapter_number": 4,
+      "chapter_title": "Advanced patterns",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "715b4f6c-dbb7-4bf8-b405-dfbbcefecdaa",
+      "book_id": "cfc20aaa-3adc-4fe1-bd9b-48c886c9a90f",
+      "chapter_number": 5,
+      "chapter_title": "Final integration",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "40bc9911-9638-428f-bdf8-780ecf5f5287",
+      "book_id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "chapter_number": 1,
+      "chapter_title": "Introduction to the topic",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "82ae304c-42dd-4786-a21e-a909feaf75e1",
+      "book_id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "chapter_number": 2,
+      "chapter_title": "Core foundations",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "8eee66ae-fe55-4bdc-b706-faa50250971f",
+      "book_id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "chapter_number": 3,
+      "chapter_title": "Applied workflow",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "6dd10b4f-8144-42dc-81e0-ca32f459c789",
+      "book_id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "chapter_number": 4,
+      "chapter_title": "Advanced patterns",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "03ce7fb3-21ce-419c-8725-5285f1cd9843",
+      "book_id": "9ec6bb45-fc07-49f1-9d54-9edee477bdbb",
+      "chapter_number": 5,
+      "chapter_title": "Final integration",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "52bbe363-9d3d-4857-a60f-d68356a68f08",
+      "book_id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "chapter_number": 1,
+      "chapter_title": "Introduction to the topic",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "638a73cc-fb61-4126-b04c-28fa4a6bfec8",
+      "book_id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "chapter_number": 2,
+      "chapter_title": "Core foundations",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "fbb6bc62-89d0-4512-bdaa-0af31c9cf59c",
+      "book_id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "chapter_number": 3,
+      "chapter_title": "Applied workflow",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "f231ff9b-36c1-41bd-a7d8-80035a9a622c",
+      "book_id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "chapter_number": 4,
+      "chapter_title": "Advanced patterns",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "849da875-976c-4468-8378-ccc0039603f2",
+      "book_id": "1bed01c6-45b9-4bce-a39e-be0021acf7f3",
+      "chapter_number": 5,
+      "chapter_title": "Final integration",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "no_notes_needed",
+      "chapter_notes": null,
+      "status": "approved"
+    },
+    {
+      "id": "31529e0f-fe75-4f21-bbb7-c56b5133a24a",
+      "book_id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "chapter_number": 1,
+      "chapter_title": "Introduction to the topic",
+      "content": "## Section 1\nThis is a starter chapter draft generated in fallback mode.\n\n## Key Takeaway\nThe chapter establishes a clear bridge to the next part of the book.",
+      "summary": "This chapter advances the book with practical lessons and setup for the next section.",
+      "chapter_notes_status": "yes",
+      "chapter_notes": "string",
+      "status": "waiting_review"
+    },
+    {
+      "id": "650b7d48-0125-44bd-878f-c9df3c9f979a",
+      "book_id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "chapter_number": 2,
+      "chapter_title": "Core foundations",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "765aa388-cad0-4ba0-8f9d-66bee6b1ba9b",
+      "book_id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "chapter_number": 3,
+      "chapter_title": "Applied workflow",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "91c0180c-14f4-4e0f-a9a6-a5d0ef050a67",
+      "book_id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "chapter_number": 4,
+      "chapter_title": "Advanced patterns",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    },
+    {
+      "id": "b2ade8f8-687d-490e-8f86-53ab86e7e795",
+      "book_id": "c25d09d0-f101-4380-a24d-76f4461668de",
+      "chapter_number": 5,
+      "chapter_title": "Final integration",
+      "content": null,
+      "summary": null,
+      "chapter_notes_status": null,
+      "chapter_notes": null,
+      "status": "pending"
+    }
+  ]
+}
